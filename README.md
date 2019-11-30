@@ -1,10 +1,10 @@
 # Programming-for-Data-Analytics-Project-Autumn-2019
 
-![car-reg](http://localhost:8888/view/Images/car-reg.png)
+![car-reg](/Images/car-reg.png)
 
 ## Scope
 To simulate a dataset for a real life phenomenon that acurrately reflects the values, distributions and relationships of a real statset for the same phenomenon. 
-[See here for instructions](http://localhost:8888/files/ProgDA_Project.pdf)
+[See here for instructions](/ProgDA_Project.pdf)
 
 ## Desciption
 The main body of work in this assignment is performed in a jupyter notebook. If viewing through Github, the ipynb file is best viewed through nbviewer, as certain text formatting will not load correctly when viewing through GitHub. Please follow the below link to view the notebook in nbviewer  [Create a Data Set Project jupyter notebook](https://nbviewer.jupyter.org/github/BarryClarke/Create-a-Data-set-Project-Autumn-2019/blob/master/New%20Electric%20car%20sales.ipynb) 
