@@ -1,6 +1,7 @@
 # Programming-for-Data-Analytics-Project-Autumn-2019
 
-<center>![car-reg](Images/car-reg.png)</center>
+![car-reg](Images/car-reg.png)
+
 
 ## Scope
 To simulate a dataset for a real life phenomenon that accurately reflects the values, distributions and relationships of a real dataset for the same phenomenon. 
