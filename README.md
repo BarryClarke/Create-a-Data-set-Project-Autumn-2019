@@ -8,6 +8,8 @@ To simulate a dataset for a real life phenomenon that accurately reflects the va
 [See here for instructions](/ProgDA_Project.pdf)
 
 ## Desciption
+The data created in this repository is to simulate the sales of hybrid and electric cars in Dublin and and it's commuter counties for 2019 to date. This data is of interest to the author, who is considering a hybrid or full electric cars for the next car purchase. Viewing trends and data related to sales of such vehicles in and close to Dublin will be of relevance. 
+
 The main body of work in this assignment is performed in a jupyter notebook. If viewing through Github, the ipynb file is best viewed through nbviewer, as certain text formatting will not load correctly when viewing through GitHub. Please follow the below link to view the notebook in nbviewer  [Create a Data Set Project jupyter notebook](https://nbviewer.jupyter.org/github/BarryClarke/Create-a-Data-set-Project-Autumn-2019/blob/master/New%20Electric%20car%20sales.ipynb) 
 
 To view the source code in jupyter notebook, please follow the below instructions:
@@ -17,6 +19,7 @@ To view the source code in jupyter notebook, please follow the below instruction
 4. Type "jupyter notebook" for the repository to open in jupyter
 5. When Jupyter notebook opens, click on the numpy.random package.ipynb file
 6. In this file, locate the *Kernal* tab and select *Restart & Run All* <br>
-**Note:** This assumes you have python and Github setup on your machine. 
+**Note:** This assumes you have python and Github setup on your machine.<br>
+ 
 
 
