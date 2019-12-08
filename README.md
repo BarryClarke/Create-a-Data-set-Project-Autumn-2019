@@ -21,5 +21,25 @@ To view the source code in jupyter notebook, please follow the below instruction
 6. In this file, locate the *Kernal* tab and select *Restart & Run All* <br>
 **Note:** This assumes you have python and Github setup on your machine.<br>
  
+The final simulated dataset consists of 1000 data points for 9 variables:
+1. **Model:** The make of car
+2. **Make:** The manufacturer of the car 
+3. **Classification:** The class of car 
+4. **Technology** The engine type
+5. **Price** The price of the car
+6. **Range** The range/distance that can be travelled when powered on battery
+7. **Month** The Month the car was registered
+8. **Location** County where the car is registered (Only Dublin and it's commuter counties)
+9. **colour** The colour of the car
+
+In simulating this particular dataset, all of the data was categorical ie. a finite number of options were available within each variable. This just happened to be the nature of this particular dataset and topic chosen, which proved slightly frustrating as it offered limited scope to examine and use the many different distributions offered by the numpy.random package. With that said, for this particular dataset, all necessary variables for the author were explored and simulated using what is believed to be the correct and most efficient code. 
+
+Background research on hybrid and Electric car sales in Ireland for 2019 found statistical summaries for car sales numbers for **Model**, **Location**, **Month** and **Colour**. Using these statistics with the numpy.random.choice() function yielded simulated data that was shown to be accurate to researched recorded data.
+For some of the variables (**Make**, **Cassification**, **Technology**, **Price** and **Range**) there was a direct relationship with the Model of car. In simulating these columns, _for_ and _if_ loops were utilised to generate the correct data corresponding to each Model.
+Finally, in dealing with the **Price** of each data point simulated, the numpy.random.normal() function was applied to simulate the small price deviations between sales of the same car model from different dealerships.
+
+All research, code and verification of simulated data is contained within the _New Electric car sales.ipynb_ jupyter notebook file contained within this respoitory.
+
+
 
 
