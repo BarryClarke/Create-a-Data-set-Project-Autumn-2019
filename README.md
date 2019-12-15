@@ -30,8 +30,8 @@ The final simulated dataset consists of 1000 data points for 10 variables:
 6. **Range** The range/distance that can be travelled when powered on battery
 7. **Month** The Month the car was registered
 8. **Location** County where the car is registered (Only Dublin and it's commuter counties)
-9. **colour** The colour of the car
-10.**Price per Month** Including loan intereste rates, the prcie of the car per month, based on a 7 year payback period
+9. **Colour** The colour of the car
+10. **Price per Month** Including loan intereste rates, the prcie of the car per month, based on a 7 year payback period
 
 In simulating this particular dataset, almost all of the data was categorical ie. a finite number of options were available within each variable. This just happened to be the nature of this particular dataset and topic chosen, which proved slightly frustrating as it offered limited scope to examine and use the many different distributions offered by the numpy.random package. With that said, for this particular dataset, all necessary variables for the author were explored and simulated using what is believed to be the correct and most efficient code. 
 
