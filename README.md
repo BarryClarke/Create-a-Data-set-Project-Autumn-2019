@@ -39,7 +39,7 @@ Background research on hybrid and Electric car sales in Ireland for 2019 found s
 For some of the variables (**Make**, **Cassification**, **Technology**, **Price** and **Range**) there was a direct relationship with the Model of car. In simulating these columns, _for_ and _if_ loops were utilised to generate the correct data corresponding to each Model.
 In dealing with the **Price** of each data point simulated, the numpy.random.normal() function was applied to simulate the small price deviations between sales of the same car model from different dealerships.
 
-Finally, in calculating the preice per month of a loan taken out for an assumed 7 years, the numpy.random.uniform() function was used to simulate the varying interest rates across all lending instiutions.
+Finally, in calculating the **price per Month** of a loan taken out for an assumed 7 years, the numpy.random.uniform() function was used to simulate the varying interest rates across all lending instiutions.
 
 All research, code and verification of simulated data is contained within the _New Electric car sales.ipynb_ jupyter notebook file contained within this respoitory, along with all References used.
 
